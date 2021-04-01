@@ -1,4 +1,4 @@
-### Hi there 👋
+[![yesim's 42 stats](https://badge42.herokuapp.com/api/stats/yesim)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **hackey1318/hackey1318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
