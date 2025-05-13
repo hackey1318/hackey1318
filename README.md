@@ -8,8 +8,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&width=435&lines=About+Me)](https://git.io/typing-svg)
 
-## 배움에 열정과 끈기를 더하는 개발자 **심영민**입니다.
-### 도전과 성장을 즐기며 안정적이고 효율적인 웹 서비스를 설계 및 구현하는 풀스택 개발자입니다.
+### 도전과 성장을 즐기며 안정적이고 효율적인 웹 서비스를 설계 및 구현하는 풀스택 개발자  심영민입니다.
 - BackEnd(3년차) : JAVA SpringBoot 
 - FrontEnd(신입) : NodeJS React
 </div>
